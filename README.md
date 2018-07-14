@@ -6,16 +6,16 @@ The following serves as a directory of links to projects and coursework that sho
 
  
 
-| Repository Link | Description | Skills Learned |
-| --------------- | ----------- | -------------- |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
-|                 |             |                |
+| Repository Link                                           | Description                               | Skills Learned |
+| --------------------------------------------------------- | ----------------------------------------- | -------------- |
+| [js-fundamentals]()                                       |                                           |                |
+| [js-codewars](https://github.com/KATRINAHIGH/js-codewars) | code wars practice problems and solutions | algorithms     |
+|                                                           |                                           |                |
+|                                                           |                                           |                |
+|                                                           |                                           |                |
+|                                                           |                                           |                |
+|                                                           |                                           |                |
+|                                                           |                                           |                |
+|                                                           |                                           |                |
+|                                                           |                                           |                |
+|                                                           |                                           |                |
